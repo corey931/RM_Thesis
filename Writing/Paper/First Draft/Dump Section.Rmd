@@ -1,0 +1,215 @@
+---
+title             : "Thesis: Dump Section"
+shorttitle        : "DUMP SECTION"
+
+author: 
+  - name          : "Sebastian Simon"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Postal address"
+    email         : "my@email.com"
+  - name          : "Jörg A. J. Gross"
+    affiliation   : "1,2"
+
+affiliation:
+  - id            : "1"
+    institution   : "Social, Economic, and Organizational Psychology, Leiden University"
+  - id            : "2"
+    institution   : "Social, Economic, and Organizational Psychology, Leiden University"
+
+authornote: |
+  Add complete departmental affiliations for each author here. Each new line herein must be indented, like this line.
+
+  Enter author note here.
+
+abstract: |
+  Abstract goes here.
+  
+keywords          : "Rule-following behavior, partner choice, social environments"
+
+bibliography      : ["r-references.bib"]
+
+floatsintext      : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+linenumbers       : no
+mask              : no
+draft             : no
+
+documentclass     : "apa6"
+classoption       : "man"
+output            : papaja::apa6_word
+keep_tex          : yes
+---
+
+```{r setup, include = FALSE}
+library("papaja")
+```
+
+```{r analysis-preferences}
+# Seed for random number generation
+set.seed(42)
+knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
+```
+
+
+
+# Introduction
+
+## How Moral to Be
+
+## What Partners to Choose
+Humans are social animals and therefore interact in groups. However, there often exist asymmetries in relationships stemming from differing sources of power held by the members of any given group - be it legitimate, referent, expert, coercive, or reward power. 
+
+Behavior that is costly to perform signals trust, a moral trait and fundamental building block of relationships. 
+
+Costly signaling theory holds that behaviors can be costly to perform but entail trust in return - regardless of whether these behaviors are intended or unintended [ref]. 
+
+## When We Cooperate
+The effects of partner choice have mainly been investigated in cooperation settings using economic games like the Prisoner's dilemma game, which allow for analyzing the evolution of cooperation and the establishment of normative behavior. 
+
+Indeed, the effects of partner choice have mainly been investigated in cooperation settings and have been shown to ... to structure social preferences, make reputation concerns more salient, ... 
+
+# Results
+H1: interaction between type*round (full, half 1 and half 2)
+  - full
+    - type - (*b* = -0.20, 95% CI[-1.11, 0.70])
+    - round + (*b* = -0.03, 95% CI[-0.06, -0.00])
+    - interaction + (*b* = -0.07, 95% CI[-0.12, -0.01])
+  - half 1
+    - type - (*b* = -0.65, 95% CI[-1.65, 2.94])
+    - round + (*b* = -0.17, 95% CI[-0.22, -0.11])
+    - interaction - (*b* = -0.04, 95% CI[-0.12, -0.04])
+  - half 2 
+    - type - (*b* = -0.91, 95% CI[-4.00, 2.18])
+    - round + (*b* = -0.07, 95% CI[-0.12, -0.03])
+    - interaction + (*b* = -0.08, 95% CI[-0.15, -0.02])
+H2: interaction between type*order (full, +/- interaction) 
+  - full - interaction
+    - type + (*b* = -1.26, 95% CI[-1.50, -1.01])
+    - order + (*b* = -0.57, 95% CI[-0.82, -0.32])
+  - full + interaction 
+    - type- (*b* = 0.33, 95% CI[-1.97, 2.63])
+    - order - (*b* = 1.02, 95% CI[-1.28, 3.31])
+    - interaction - (*b* = -3.17, 95% CI[-7.74, 1.40])
+  - full 4 condition*order (full) 
+    - condition - (*b* = 0.33, 95% CI[-1.97, 2.63])
+    - order + (*b* = -1.83, 95% CI[-2.18, -1.47])
+    - interaction + (*b* = 2.51, 95% CI[2.02, 3.01])
+H3: selected*type + selected*round (full)
+  - full
+    - selected + (*b* = 1.44, 95% CI[0.79, 2.08])
+    - type - (*b* = -0.07, 95% CI[-0.52, 0.38])
+    - round + (*b* = -0.07, 95% CI[-0.10, -0.05])
+    - interaction 1 + (*b* = -2.05, 95% CI[-2.63, -1.47])
+    - interaction 2 - (*b* = 0.01, 95% CI[-0.03, 0.04])
+  - half 1
+    - selected + (*b* = 1.22, 95% CI[0.29, 2.16])
+    - interaction 1 + (*b* = -2.45, 95% CI[-3.27, -1.62])
+    - interaction 2 - (*b* = 0.04, 95% CI[-0.05, 0.14])
+  - half 2
+    - selected + (*b* = 2.65, 95% CI[0.66, 4.64])
+    - interaction 1 + (*b* = -0.83, 95% CI[-1.60, -0.06])
+    - interaction 2 - (*b* = -0.05, 95% CI[-0.14, 0.03])
+Corrupt vs Prosocial
+  - corruption - ~ role (*b* = -0.01, 95% CI[-0.16, 0.15])
+  - svo + ~ role (*b* = 1.35, 95% CI[0.70, 2.00]) 
+
+## H1
+
+In line with our expectation, norms of rule following were established in both settings as shown in Figure 1. However, to our surprise, rule-following scores overall decreased over time regardless the setting (*b* = -0.16, 95% CI[-0.22;-0.11]) showing that the expected diverging pressures we predicted did not arise. So, while rule following consistently decreased in the corrupt setting as we expected, [stats], with an average minimum rule-following score = 5.32 in round 28, rule following also decreased in the prosocial setting with rule following peaking at an average score = 9.97 in round 21. There was no main effect for the settings variable in the first half, [stats], and we did not find an interaction effect between both settings and rounds either, [stats]. However, in the second half differences emerged and the order of the two settings (i.e., transitioning from one setting to another) may have influenced rule following behavior in both settings. 
+
+However, merely transitioning from one setting to another seemed temporarily increase rule following in the corrupt setting even if not remarkably, [stats]. When transitioning to the prosocial setting, there was a strong increase in rule-following scores, [stats], followed by the decreasing trend mentioned above.  
+
+In our experiment, we measured rule-following behavior as an interval variable ranging from 0 to 15, which translates to the number of a participant following the rule. 
+
+## H2: Transitioning to Differing Settings
+
+Interestingly, in the first 15 rounds of the experiment, rule-following scores do not differ across the two settings over time, *b* = -0.04, 95% CI[-0.12;0.04]. Over the remaining 15 rounds, however, the scores did differ, *b* = -0.08, 95% CI[-0.15;-0.02]. Therefore, it seems that merely transitioning from one setting to the next caused rule-following scores to differ, possibly, because the transition made the incentive structures more salient. 
+
+Overall, participants followed rules less in both the corrupt setting (*b* = -1.26, 95% CI[-1.50;-1.01]) and the second half of the experiment (*b* = -0.57, 95% CI[-0.82;-0.32]). However, when including the interaction term, none of the effects predicted rule following behavior; not the variable setting (*b* = 0.33, 95% CI[-1.97;2.63]), order (*b* = 1.02, 95% CI[-1.28;3.31]), or the interaction term (*b* = -3.17, 95% CI[-7.74;1.40]). 
+
+Over the first 15 rounds of our experiment, the trends of the scores did not differ across the two settings ( *b* = -0.04, 95% CI[-0.12;0.04]) but did differ over the 15 rounds after (*b* = -0.08, 95% CI[-0.15;-0.02]). Specifically, in the corrupt setting, rule following decreased even further in the second half as predicted, [stats]. However, in the prosocial setting, rule-following scores deviated from our expectations. First of all, scores did not increase but decrease in the first half, [stats]. Then, when transitioning to the prosocial setting, scores rapidly increased, [stats], and consistently decreased thereafter as part of the overall decreasing trend, [stats]. 
+
+Figure 1 reveals that there were no such expected anchoring effects and that the trends of rule-following behavior when transitioning to another setting are more complex than initially anticipated. Overall, rule-following decreased in the second half of the experiment more than in the first half (*b* = -1.83, 95% CI[-2.18, -1.47]). Interestingly, while rule-following alone did not differ across the two conditions (i.e., the order that the two settings follow; *b* = -1.83, 95% CI[-2.18, -1.47]), conditions interacted with the order of the settings where people were more rule-following in the second half of condition 2 (i.e., the dictator game) than in condition 1 (i.e., the die-rolling game; *b* = 2.51, 95% CI[2.02, 3.01]). This interaction shows that even though there are no anchoring effects per se, merely transitioning from one setting to the next, evokes differential rule-following behavior across settings in the direction we predicted. However, this change may as well have been caused by opportunism as people also had the chance to get selected as interaction partners, inducing selection pressures. 
+
+## H3: Choosing the Trustworthy
+
+## General Discussion
+
+Given all these results, why do we observe an overall decreasing trend?  
+
+
+# Establishing norms of rule following
+
+Social settings 
+
+- we predict
+  - rule-following increases in the prosocial setting and decreases in the corrupt setting
+  - 
+- Figure 1 shows the trends of rule-following scores over time. 
+
+
+# Social environments anchor rule following behavior
+
+
+# Choosing partners shapes rule following behavior
+
+In line with our expectations, people became less rule following over time in the corrupt setting (H1a), [stats]. Surprisingly,  
+
+H1
+- H1a: confirmed
+- H1b: not confirmed
+  - surprisingly, high onset of rule-following scores
+  - also, surprisingly, overall downward trend of rule-following behavior
+H2
+- H2a: 
+
+
+```{r}
+setwd('/Users/sese/Desktop/Data')
+result <- read.table('result.csv', header = T, sep = ',')
+result <- result[,2:dim(result)[2]]
+
+# Model
+library(lme4)
+model <- lmer(rulefollowing ~ 1 + type*round*order + type*selected + (1 | group/subject),
+              REML = T,
+              data = result)
+
+library(dplyr)
+library(knitr)
+library(DT)
+library(xtable)
+kable(summary(model)$coefficients, caption = 'Random Intercepts Regression Results')
+kable(confint(model), caption = '95% CIs of Regression')
+```
+*Note*. [add specifics] 
+
+## Norms of when to follow rules and when not
+
+Figure 1 shows the trends of rule-following scores over time. Surprisingly, participants became consistently less rule following over time, [stats] but as expected, rule-following scores decreased more in the corrupt setting than in the prosocial setting (H1), [stats]. 
+
+- dv scale and analysis
+- results
+
+Figure 1 shows the trends of rule-following scores over time. Overall, participants became consistently less rule following over time, *b* = -0.15, 95% CI = [-0.18,-0.12] and as expected, rule-following scores decreased in the corrupt setting (H1a), *b* = 0.33, 95% CI = [-0.22,-0.88]. However, different from our expectations, in the prosocial setting, rule following did not increase per se. Instead, past round 15 where the setting changed, the baseline of rule-following scores increased in the prosocial setting followed by the downward trend of scores, *b* = 3.20, 95% CI = [0.87,5.53]. In the corrupt setting, the change increases rule-following scores momentarily but not remarkably. We can therefore observe change effects for both settings but not like we expected. 
+
+# Methods
+Weisel and Shalvi (2015) already observed people to coordinate reports of die-roll outcomes and report a ‘double’ 82% of the time, a result that exceeds both chance (as the chance is 2.78% for two separate die rolls with the same outcome) and other outcomes people report when they are alone. 
+
+
+\newpage
+
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+<div id = "refs"></div>
+\endgroup

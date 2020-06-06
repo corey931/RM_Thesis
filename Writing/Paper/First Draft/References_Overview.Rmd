@@ -1,0 +1,46 @@
+---
+title: "References_Overview"
+author: "Sebastian"
+date: "12/2/2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Overview of References
+
+## reputation
+- milinski, semmann, krambeck (2002): reputation as a currenty that is valid in social games. people cooperate if indirect reciprocity is a concern, else they do not.  
+- wedekind and milinski (2000): image scoring promotes cooperative behavior in situations where direct reciprocity is unlikely.  
+przepiorka, norbutas, corten (2017): reputation formation has been found to promote cooperation. in cryptomarkets for illegal drugs, reputation creates real incentives for cooperative behavior at a large scale.  
+- falk and szech (2013): preferences in markets (bilateral and multilateral) erodes moral values, relative to individual preferences  
+- ely, fudenberg, levine (2006): The key to bad reputation is that participation is optional for the short-run players, and that every action of the long-run player that makes the short-run players want to participate has a chance of being interpreted as a signal that the long-run player is “bad.”
+- cottrell, neuberg, li (2007): Across different measures of trait importance and different groups and relationships, trustworthiness was considered extremely important for all interdependent others.  
+- barclay (2016): The best partners are those most willing, able, and available to confer benefits, either intentionally or incidentally [2. Barclay, 2013: Strategies for cooperation in biological markets, especially for humans. Evol Hum Behav]  
+- gintis and smith (2001): We show that honest signaling of underlying quality by providing a public good to group members can be evolutionarily stable, and can proliferate in a population in which it is initially rare, provided that certain plausible conditions hold, including a link between group-bene"cial signaling and underlying qualities of the signaler that would be of bene"t to a potential mate or alliance partner.  
+- fehrler and przepiorka (2013): Here we show that if a proportion of individuals with social preferences is maintained in the population through kin or multi-level selection, cooperative acts that are truly altruistic can be a costly signal of social preferences and make altruistic individuals more trustworthy interaction partners in social exchange.  
+
+## rule violations / dishonesty / lying
+-gross and de dreu (2017): Under oxytocin, participants violated the rule more often, especially when they had high need for structure and high approach sensitivity.
+- gross and de dreu (2012): interindividual differences in rule following predict honesty and rule-following individuals exhibit a stronger social influence on others
+- gross, leib, offerman (2018): Dishonest people seek a partner who will also lie—a “partner in crime.” Honest people, by contrast, engage in ethical free riding: They refrain from lying but also from leaving dishonest partners, taking advantage of their partners’ lies. 
+- gerlach, teodorescu, hertwig (2019): meta-analysis. dishonest behavior depends on both situational factors, such as reward magnitude and externalities, and personal factors, such as the participant's gender and age. Further, laboratory studies are associated with more dishonesty than field studies, and the use of deception in experiments is associated with less dishonesty. To some extent, the different experimental paradigms come to different conclusions. For example, a comparable percentage of people lie in die-roll and matrix tasks, but in die-roll tasks liars lie to a considerably greater degree. We also find substantial evidence for publication bias in almost all measures of dishonest behavior.  
+- dahling, chau, mayer et al (2000): pro-social rule breaking (PSRB) is negatively related to task performance ratings across both sources despite its pro-social motivation intended to help the organization.  
+- gobinda goswami, oskooee, goswamif (2005): By using data from 60 developing countries over the 1982-1995 period, we show that the black market premium is higher in countries that are plagued by more corruption. This tinding seems to be insensitive to five different measures of corruption as well as whether cross-section or panel.  
+- halevy, shalvi, verschuere (2013): we found self-reports of frequent lying to positively correlate with real-life cheating and psychopathic tendencies. Our findings question whether lying is normative and common among most people, and instead suggest that most people are honest most of the time and that a small minority lies frequently.  
+- mann, garcia-rada, hornuf et al (2016): We found no meaningful relationships between dishonesty on our task and macro-level indicators, including corruption ratings and cultural values. These findings suggest that individuals around the world are similarly dishonest at their core.
+Keywords.  
+- morrison (2006): the likelihoodofpro-social rule breaking was positively related to job autonomy, coworker behavior, and risk-taking propensity.  
+- ades and di tella (1996): overview of causes and costs of corruption
+
+## partner choice
+- eisenbruch and roney (2017): productivity mattered more to men than to women, and productivity mattered more when it revealed underlying skill rather than luck. In addition, gen- erosity had far larger effects than productivity, but the effect of productivity was moderated by generosity, suggesting sophis- ticated heuristics for choosing cooperative partners.  
+- raihani and barclay (2016): When both partners were equally fair (or unfair), choosers typically preferred the richer partner. Nevertheless, when asked to choose between a rich-stingy and a poor-fair partner, choosers prioritized fairness over wealth—with this preference being particularly pronounced when wealth was unstable.  
+- everett, crocket, pizarro (2016): people who make characteristically deontological judgments are preferred as social partners, perceived as more moral and trustworthy, and are trusted more in economic games. deontological moral intuitions may represent an evolutionarily prescribed prior that.  
+- melnikoff and bailey (2018): the preference for morality vs. immorality in others is conditional on the evaluator’s current goals. Specifically, when immorality was conducive to participants’ current goals, the preference for moral vs. immoral traits in others was eliminated or reversed. The preferences for mercifulness vs. mercilessness (exper- iment 1), honesty vs. dishonesty (experiment 2), sexual fidelity vs. infidelity (experiment 3), and altruism vs. selfishness (experiment 4) were all found to be conditional. These findings oppose the con- sensus view that people have a dominant preference for moral vs. immoral traits in others.  
+- barclay and willer (2007): we show here that people actively compete to be more generous than others when they can benefit from being chosen for cooperative partnerships, and the most generous people are correspondingly chosen more often as cooperative partners.  
+
+## svo
+- balliet, parks, joireman (2009): meta-analysis of 82 studies assessing the relationship between social value orientation (SVO) and cooperation in social dilemmas. A signifi cant and small to medium effect size was found (r = .30). Results supported a hypothesis that the effect size was larger when participants were not paid (r = .39) than when they were paid (r = .23). 

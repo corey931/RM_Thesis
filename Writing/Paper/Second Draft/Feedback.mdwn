@@ -1,0 +1,120 @@
+# Feedback 
+
+- examples
+  - connect examples better to theory/concepts under investigation
+  - rather stick to studies than broad real-life examples: explain the experimental setup
+
+- structure
+    - use operational definitions
+    - too broad at the end of paragraphs
+
+- title 
+    - does not make sense 
+    - too unspecific
+
+- abstract 
+  - too unspecific and broad
+  - define environments
+  - remove leadership example for implications
+  - define all terms
+  - his summary
+    - define terms
+    - unclear what it's about
+    - unclear what I did 
+
+- introduction
+  - his summary
+    - structure is missing, foundation, research question
+    - transitions and "storyline" missing 
+    - examples are arbitrary, not theoretical
+    - avoid hyperbolic or metaphorical statements (too vague)
+    - concepts not clearly defined
+    - sentences copied from other papers
+  - too unscientific
+  - terms without context
+  - company marketing example out of place; better for reputation management
+  - competition does not typically lead to trust and cooperation (use strong evidence)
+  - more on partner selection (use biological markets as entry point)
+  - more theoretical foundation, instead of examples
+  - avoid metaphors if they are not theoretically grounded
+  - copied sentences from other papers including his
+
+- references
+  - use scientific statements, not psychological assessments or the like
+  - describe studies 
+
+- method section
+  - avoid add-ins -> find a better structure
+
+## Outline
+
+### Introduction 
+
+#### Currently
+
+- people follow norms
+  - broad intro
+  - good norms
+  - bad norms
+- people also violate norms
+  - define corrupt collaboration
+  - examples
+  - expand on the environment, incentives (why some groups have norms of trust, cooperation, morality while others foster anti-social behavior) 
+  - then connect to broader theoretical foundation
+- trusting good interaction partners
+  - connection to previous paragraph? 
+  - define rule following
+  - use trustworthy/signalling willingness of pro-sociality (more literature there)
+- morality predicts intentions
+- partner selection in economic games
+
+#### Now
+
+**Hypotheses**
+1. Norms of rule-following will establish over time. 
+   1. Scores will increase in the fair environment
+   2. Scores will decrease in the corrupt environment
+2. Rule-following scores in the first shown environment will anchor scores in the second shown environment. 
+3. Rule violators will be selected 
+   1. more often in the corrupt environment
+   2. less often in the fair environment
+
+**Concepts**
+1. rule-following scores, cheating vs fair environment
+   1. biological markets
+   2. reputation
+   3. DG DRG
+2. anchoring trends
+3. partner choice
+
+**Research questions** 
+- How much do social environments anchor rule following?
+- And when are rule violators preferred over rule followers?
+
+**Elements needed**
+1. Norms will establish over time
+   1. economic games 
+      1. prosociality: follow social norms
+      2. cheating: violate social norms
+   2. time variable
+   3. scores can change over time
+      1.  DG: prosociality
+      2.  DRG: corrupt collaboration
+2. Anchoring effect
+   1. ?
+3. Differential partner choice 
+   1. biological markets / competition
+   2. partner choice
+   3. desirable interaction partners / expected reciprocity
+   4. reputation / image scores
+
+**Argumentation**
+1. Norms will establish over time
+2. Anchoring effect
+3. Differential partner choice
+
+#### Following rules
+
+#### Partner choice
+
+#### Environments

@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/sese/.local/share/virtualenvs/joerg-VkBps5JQ/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
+}
