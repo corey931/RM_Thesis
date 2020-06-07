@@ -28,7 +28,7 @@
 3. RQ: Can switching from a corrupt environment to a fair environment make individuals more rule following?
 4. RQ: Are dishonest partners preferred in corrupt environments and prosocial partners preferred in fair environmnents?
 
-### In a nutshell
+### In a nutshell - Intro
 
 Cooperation such as rule following, for instance, is key for societies to function. [def]. [ex]. However, groups can also collaborate to violate rules. Previous research has hightlighted the importance of incentives in social environments and partner choice in solving these seemingly contradictory behaviors. 
 
