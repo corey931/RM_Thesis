@@ -7,7 +7,7 @@
 - Why moral? Why not simply trustworthy / signal willingness of pro-sociality (which is more clearly defined in the literature)? 
 - What are biological markets? Define!
 - You need to talk about the role of partner selection, not only mention it as a sidenote.
-- Again, this are interesting examples, but it is not clear for what exactly, because your theoretical foundation is lacking.
+- Again, this are interesting examples, but it is not clear for what exactly, because your theoretical foundation is lacking. 
 
 **Reuse**
 - This is good; You introduce  a new theoretical  concept (asymmetry) and then clearly define it with abstract  (resources etc.) and “real life”(banks etc.) examples. 
@@ -34,14 +34,14 @@ Cooperation such as rule following, for instance, is key for societies to functi
 
 - individuals choose others who they want to interact with such as their partners, friends, and colleagues at work, and in doing so they choose those who display desirable characteristics - whether intentionally or unintentionally - and abandon those who do not. This is also called a biological market and different from economic markets, individuals do not trade goods or services but their ability dgeand willingness to confer benefits on others. [ex]. Therefore, biological markets establish incentive structures over which behavior is desirable and which behavior is undesirable. 
 - In fact, research has extensively shown that individuals want to be or at least appear to be good interaction partners and in doing so, they signal their trustworthiness to others. Signaling theory [def]. Therefore, individuals care what others think and 
-- The behavior of choosing another individual as interaction partner is called partner choice[def]. In addition to the property of biological markets to create incentive structures as to what behavior is enforced and what behavior is not, asymmetries in partner choice may exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. 
+- The behavior of choosing another individual as interaction partner is called partner choice[def]. In addition to the property of biological markets to create incentive structures as to what behavior is enforced and what behavior is not, asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. 
 - One important component in biological markets is partner choice. Partner choice is operationally defined as [def]. When some individuals have more potential partners at their disposal and ready to choose from while others do not, asymmetries in partner choice exist. When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished. Since biological markets enforce desirable behaviors and implicitly punish undesirable behaviors
 
 - In order to do so, individuals signal their trustworthiness to others and they do so by showing that they reciprocate. 
 
 - biological markets
-- signaling trustworthiness: reciprocity (prosociality / anti-social behavior)
 - partner choice
+- signaling trustworthiness: reciprocity (prosociality / anti-social behavior)
   - partner switching
 - competitive altruism
 

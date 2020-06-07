@@ -3,7 +3,7 @@
 ## Cooperation
 
 - Humans frequently cooperate to achieve mutual goals. Successful cooperation can lead to better performance, higher innovation, and better overall outcomes (e.g., Rusbult & Van Lange, 2003). Providing people with the freedom to seek trustworthy partners and abandon free riders helps to develop and safeguard cooperation (Efferson, Roca, Vogt, & Helbing, 2016; Rand, Arbesman, & Christakis, 2011). (Ethical Free Riding: When Honest People Find Dishonest Partners)
-
+ 
 ## Norms
 
 - Centralized Sanctions and Leadership In contrast to most recent experimental studies ofnorms and sanctions, real-world collective action groups generally place restrictions on who can punish whom for violating norms (e.g., Ostrom 2000). For instance, the responsibility for monitoring and sanctioning others’ behaviors might be alternated among group members (O’Gorman et al. 2009) or based implicitly on who has more power or influence in the group (e.g., Przepiorka & Diekmann 2013). Perhaps most commonly, the ability to sanction others’ behaviors is often vested in an explicitly designated leader (van Vugt & De Cremer 1999). (Beyond Altruism: Sociologi)
