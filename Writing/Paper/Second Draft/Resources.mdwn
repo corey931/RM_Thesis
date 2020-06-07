@@ -22,8 +22,9 @@
 
 ### Reputation
 
-- This shows the strong relationship between reciprocity, trust and reputation as described by Ostrom [12] (Reputation, a universal currency for human social interactions)
+- This shows the strong relationship between reciprocity, trust and reputation as described by Ostrom [12]. Nowak & Sigmund [32,33] showed by both computer simu- lations and an analytical model that cooperation through indirect reciprocity can evolve if everybody has an ‘image score’ that is increased by one point after each act of helping and is decreased by one point after each act of refused help.(Reputation, a universal currency for human social interactions)
 - In the last decade, perhaps no mechanism promoting cooperation and prosocial behavior has received as much attention as reputation. Once viewed as secondary to material incentives, the reputational rewards that go to those who behave in generous or cooperative ways are now also viewed as a powerful force shaping prosocial action. Researchers generally conceive of reputation as the “set of judgments a community makes about the personal qualities of one of its members” (Emler 1990, p. 171). Here we are particularly concerned with reputational judgments with moral content, specifically judgments of a person’s cooperativeness, trustworthiness, or generosity. (Beyond Altruism: Sociologi)
+- Here, we retain the original term "generalized reciprocity", which proposes that people expect to receive benefits from other in-group members, especially if they have a positive reputation (Yamagishi et al., 1999) (Unbounded indirect reciprocity: Is reputation-based cooperation bounded by group membership?)
 
 ## Corruption
 
