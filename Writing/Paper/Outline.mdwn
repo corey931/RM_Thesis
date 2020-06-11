@@ -1,13 +1,4 @@
-# Aggregated Feedback
-
-
-
-**Introduce**
-- rule-following scores
-- environment
-  - fair
-  - corrupt
-  - anchoring
+# Outline 
 
 ## Overview
 
@@ -39,7 +30,9 @@
     - envs exacerbate: competitive altruism / corruption breeds corruption
     - anchoring environments
 
-### In a nutshell - Intro
+## Intro
+
+### In a nutshell
 
 Cooperation such as rule following, for instance, is key for societies to function. [def]. [ex]. However, groups can also collaborate to violate rules. Previous research has hightlighted the importance of incentives in social environments and partner choice in solving these seemingly contradictory behaviors. 
 
@@ -65,8 +58,6 @@ Moreover, both prosociality and corrupt collaboration can manifest as social nor
 
 ### Full-fledged
 
-- [blabla] showed that those choosing their partners prioritize the willingness to confer benefits over the ability to do so as fairness outweighed wealth.      
-
 When individuals cooperate there are costs and benefits for at least one of the involved parties, and costs pose a risk to all involved. To shield themselves from being exploited, parties evaluate how trustworthy others are. [ex]. In fact, individuals readily signal their trustworthiness to show others that they are able and willing to cooperate. For instance, charity [ex]. Also, research has shown that the willingness outweighs the ability to confer benefits on others. [ex]. Importantly, signals are considered reliable when they are rather costly for some to perform or others do not possess the qualities in the first place. [ex]. Therefore, cooperation requires some form of safety from the parties involved. 
 
 Reciprocity is a well documented way of safeguarding cooperation and is most likely when group members know each other. Evolutionary mechanisms, for instance, point to kin selection where individuals are more likely to reciprocate help from relatives than non-relatives, and group selection where individuals serve the existence of a group and, thereby, reciprocate. However, in the face of globalization, individuals interact less frequently with and do not necessarily know each other which, in turn, gradually removes incentives to reciprocate. [ex]. Therefore, cooperation in anonymous groups requires another mechanism. 
@@ -78,8 +69,9 @@ Reputation has been described as a universal currency for social interactions, a
 Partner choice is an integral part of biological markets. [def]. Those who choose have been shown to prefer the willingness to confer benefits over the availability to do so. [ex]. In addition, those choosing have been shown to enforce which qualities are desirable by excluding competitors to maximize their profit. [ex]. However, who gets chosen has been found to be conditional on the goals of the individual choosing. For instance, in a prosocial environment individuals prosocial behavior is preferred [ref] and, therefore, leads to cooperation. [ex]. However, individuals also cooperate to corrupt. In fact, in a corrupt environment, people have been shown to prefer corrupt collaboration, the joint violation of rules for the sake of gaining benefits. H1. 
   - One important component in biological markets is partner choice. Partner choice is operationally defined as [def]. When some individuals have more potential partners at their disposal and ready to choose from while others do not, asymmetries in partner choice exist. When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished. Since biological markets enforce desirable behaviors and implicitly punish undesirable behaviors
 
-- Asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. [ex]. These asymmetries in partner choice also fortify already existing incentives. [ex]. Therefore, partner choice asymmetrically incentivizes qualities and thereby increases pressures to be categorized as a good interaction partner. 
-- Importantly, partner choice is contingent on qualities that are considered desirable. Specifically, cooperators are more likely to be chosen while non-cooperators are more likely to be abandoned. For instance, when it is desirable to follow rules [ex]. Reversely, when it is desirable to violate rules [ex]. Therefore, partner choice determines rule following. 
+Asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. [ex]. These asymmetries in partner choice also fortify already existing incentives. [ex]. Therefore, partner choice asymmetrically incentivizes qualities and thereby increases pressures to be categorized as a good interaction partner. 
+
+Importantly, partner choice is contingent on qualities that are considered desirable. Specifically, cooperators are more likely to be chosen while non-cooperators are more likely to be abandoned. For instance, when it is desirable to follow rules [ex]. Reversely, when it is desirable to violate rules [ex]. Therefore, partner choice determines rule following. 
 
 Both reputation and partner choice are defining for biological markets as individuals compete to choose and be chosen as interaction partners in these markets. This is called a biological market. But unlike economic markets where goods and services are traded, biological markets mainly focus on the ability and willingness to benefit others. For instance, peers, non-peers [ex]. Biological markets are therefore a place where individuals are required to cooperate through quality signaling and partner choice. However, markets do not exist in a vacuum, rather, in an environment that shapes interactions through its incentive structure, and it is this structure that can shape individuals' signals and which partners they choose. 
   - Integral to biological markets is partner choice, the process of individuals choosing others as interaction partners. When able to choose, individuals select those 
@@ -87,39 +79,8 @@ Both reputation and partner choice are defining for biological markets as indivi
 
 Moreover, both prosociality and corrupt collaboration can manifest as social norms over time. Social norms are commonly defined as behaviors that should be commonly acted out (i.e., injunctive norms) or are indeed commonly acted out (i.e., descriptive norms). [ex]. Previous research has examined these concepts by looking at rule-following behavior. In addition, behavior has been shown to breed behavior with prosociality increasing the frequency of following prosociality. Specifically, competitive altruism [blabla] have shown the impact of descriptive norms of a neighborhood on household electricity consumption. Similarly, corruption has been shown to breed corruption. [blabla] has shown that. 
 
-In addition, the possibility of partner switching increases competition among group members for desirable behaviors. 
+## Methods
 
-However, different from previous research, participants dynamically learn each others' rule following scores. 
+## Results
 
-Dump
-- In this regard, individuals who signal their trustworthiness appear more attractive to others for future social interactions. Specifically, signaling theory holds that when parties have different information they can resolve the problem by honestly communicating, also called signaling, their ability and willingness to cooperate. For instance, individuals [ex].
-- In order to do so, individuals signal their trustworthiness to others and they do so by showing that they reciprocate. direct reciprocity is one way of such safety and occurs when, say, person A asks person B for a favor and person B returns the favor directly to person A. 
-- Rule following has been studied widely in behavioral economics, where economic games have shown that rule following increases in step-level games as opposed to one-shot games.  
-- This competition has been shown to reverse, so that competitors become more corrupt when anonymity exists in addition to other factors. 
-- narrow demand and thereby broaden supply, inadvertently increasing competition. 
-- Reputation draws on signaling theory with reputation being a social measure of multiple signals over time and, importantly, individuals keep score of others' reputation. This is also known as image scoring. 
-- Therefore, the benefits and selection pressures that come with biological markets establish incentive structures where some benefits are more desirable than others. 
-- and in addition to the inherent property of biological markets of creating incentive structures, asymmetries in partner choice often exist.
-
-When 
-
-### More detailed
-
-- **social norms/rules**
-  - rule-following (scores)
-  - why individuals/groups/societies have norms to follow rules 
-    - prosociality
-    - why do they have norms of trust, cooperation, and morality 
-  - and why individuals/groups/societies have norms to violate rules
-    - corrupt collaboration 
-    - why do they foster anti-social behaviors [find factors] 
-
-
-- **and that depends on partner choice**, those who choose them as interaction partners **(RQ1)**
-  - biological markets: individuals interact in groups and their behaviors function as resources (similar to economic markets)
-  - signaling theory: individuals want to show others some of their characteristics
-  - reputation (management): individuals have impressions of others that develop over time
-  - reciprocity: individuals expect others to return favors and benefits
-
-
-- **and that depends on their social environments (RQ2)**
+## Discussion

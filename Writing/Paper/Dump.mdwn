@@ -1,5 +1,20 @@
 # Working Title Goes Here
 
+## Removed
+
+**Dump**
+- In this regard, individuals who signal their trustworthiness appear more attractive to others for future social interactions. Specifically, signaling theory holds that when parties have different information they can resolve the problem by honestly communicating, also called signaling, their ability and willingness to cooperate. For instance, individuals [ex].
+- In order to do so, individuals signal their trustworthiness to others and they do so by showing that they reciprocate. direct reciprocity is one way of such safety and occurs when, say, person A asks person B for a favor and person B returns the favor directly to person A. 
+- Rule following has been studied widely in behavioral economics, where economic games have shown that rule following increases in step-level games as opposed to one-shot games.  
+- This competition has been shown to reverse, so that competitors become more corrupt when anonymity exists in addition to other factors. 
+- narrow demand and thereby broaden supply, inadvertently increasing competition. 
+- Reputation draws on signaling theory with reputation being a social measure of multiple signals over time and, importantly, individuals keep score of others' reputation. This is also known as image scoring. 
+- Therefore, the benefits and selection pressures that come with biological markets establish incentive structures where some benefits are more desirable than others. 
+- and in addition to the inherent property of biological markets of creating incentive structures, asymmetries in partner choice often exist.
+- In addition, the possibility of partner switching increases competition among group members for desirable behaviors. 
+- However, different from previous research, participants dynamically learn each others' rule following scores. 
+
+
 ## Abstract or so
 
 Cooperation is key for groups and societies to function, where social norms help safeguarding such cooperation. Many societies have norms of prosociality, while others have norms that foster anti-social behavior like corrupt collaboration. These contradicting sets of norms, raise two questions: First, how do groups resolve contradicting norms of rule following when they switch from one environment to the other? Second, to which extent are partners who signal behaviors that are in line with the norms of the respective environment preferred over those who do not? Here we expect rule following and partner choice to be consistent with the norms respective to their environments. We argue for reputation-based partner choice along with partner switching as the underlying mechanisms for driving the effects of environmental consistency. We conclude that over time, groups can adapt to and prefer partnerships consistent with the norms of the environment they are in. 
