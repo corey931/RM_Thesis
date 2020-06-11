@@ -1,5 +1,46 @@
 # Feedback 
 
+## Written Feedback
+
+### Skype Session (10-06-2020)
+
+**Ask**
+- buzz words in results section: frequency, modulate, increase, depend
+- as someone more experienced, how long does it take you to write a paper by now? 
+
+**Feedback**
+- intro
+- methods
+  - connect tasks back to intro asked to follow rules but costly, but has benefits; or hypothetical 
+  - die rolling: expect 6es and what partners to expect, binary tree going through options (briefly for hypotheses)
+  - experimental tasks (theoretical level): what they measure, then implement, then order, number of rounds
+- results
+  - most important, then what follows...
+  - what i test, conclude, and order everything well
+  - partner choices [manipulation checks], partner selectors
+  - behavioral; frequency/propensity of rule following; what is surprising (put it at the end)
+  - condition 1/2 labels
+  - at end of methods, outline analysis, use R package to derive p-values
+- discussion
+  - dishonesty and bankers, especially when framing task in their profession (https://www.nature.com/articles/nature13977)
+  - connect to intro (what have we learned?)
+
+
+### Aggregated 
+
+**Include**
+- Would extend – talk about the environment, incentives in the environment – why do some groups/societies have norms of trust, cooperation, and morality, while others establish norms that foster anti-social behavior? Then, you can also connect your examples to a broader theoretical foundation.
+- Why moral? Why not simply trustworthy / signal willingness of pro-sociality (which is more clearly defined in the literature)? 
+- What are biological markets? Define!
+- You need to talk about the role of partner selection, not only mention it as a sidenote.
+- Again, this are interesting examples, but it is not clear for what exactly, because your theoretical foundation is lacking. 
+
+**Reuse**
+- This is good; You introduce  a new theoretical  concept (asymmetry) and then clearly define it with abstract  (resources etc.) and “real life”(banks etc.) examples. 
+- Why not talk about this study (Keizer, Lindenberg, & Steg, 2008) in more detail instead of using broad real-life examples that may lose their relevancy in some years from now.
+
+### In Detail
+
 - examples
   - connect examples better to theory/concepts under investigation
   - rather stick to studies than broad real-life examples: explain the experimental setup
@@ -45,76 +86,3 @@
 
 - method section
   - avoid add-ins -> find a better structure
-
-## Outline
-
-### Introduction 
-
-#### Currently
-
-- people follow norms
-  - broad intro
-  - good norms
-  - bad norms
-- people also violate norms
-  - define corrupt collaboration
-  - examples
-  - expand on the environment, incentives (why some groups have norms of trust, cooperation, morality while others foster anti-social behavior) 
-  - then connect to broader theoretical foundation
-- trusting good interaction partners
-  - connection to previous paragraph? 
-  - define rule following
-  - use trustworthy/signalling willingness of pro-sociality (more literature there)
-- morality predicts intentions
-- partner selection in economic games
-
-#### Now
-
-**Hypotheses**
-1. Norms of rule-following will establish over time. 
-   1. Scores will increase in the fair environment
-   2. Scores will decrease in the corrupt environment
-2. Rule-following scores in the first shown environment will anchor scores in the second shown environment. 
-3. Rule violators will be selected 
-   1. more often in the corrupt environment
-   2. less often in the fair environment
-
-**Concepts**
-1. rule-following scores, cheating vs fair environment
-   1. biological markets
-   2. reputation
-   3. DG DRG
-2. anchoring trends
-3. partner choice
-
-**Research questions** 
-- How much do social environments anchor rule following?
-- And when are rule violators preferred over rule followers?
-
-**Elements needed**
-1. Norms will establish over time
-   1. economic games 
-      1. prosociality: follow social norms
-      2. cheating: violate social norms
-   2. time variable
-   3. scores can change over time
-      1.  DG: prosociality
-      2.  DRG: corrupt collaboration
-2. Anchoring effect
-   1. ?
-3. Differential partner choice 
-   1. biological markets / competition
-   2. partner choice
-   3. desirable interaction partners / expected reciprocity
-   4. reputation / image scores
-
-**Argumentation**
-1. Norms will establish over time
-2. Anchoring effect
-3. Differential partner choice
-
-#### Following rules
-
-#### Partner choice
-
-#### Environments
