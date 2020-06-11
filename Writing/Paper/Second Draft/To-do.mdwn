@@ -1,0 +1,38 @@
+## To-do
+
+- [] intro (1d): completely restructure
+  - biological markets
+  - [] social norms
+    - [] prosociality
+    - [] anti-social behavior
+  - [] hypotheses
+  - [] refs
+- [] methods: reshuffle (0.75d)
+- [] results (1d)
+  - [] rerun analyses
+  - [] improve graphs
+- [] discussion (1.25d)
+  - [] outline
+  - [] write 
+- [] abstract (0.25d)
+ 
+## Ask 
+
+- buzz words in results section: frequency, modulate, increase, depend
+- as someone more experienced, how long does it take you to write a paper by now? 
+
+## Feedback (10-06-2020)
+
+- experimental tasks (theoretical level): what they measure, then implement, then order, number of rounds
+- connect tasks back to intro asked to follow rules but costly, but has benefits; or hypothetical 
+- die rolling: expect 6es and what partners to expect, binary tree going through options (briefly for hypotheses)
+
+- end of methods, outline analysis, use R package to derive p-values
+- what i test, conclude, and order
+- most important, follows...
+- behavioral; frequency/propensity of rule following; what is surprising (put it at the end)
+
+- partner choices [manipulation checks], partner selectors
+- condition 1/2 labels
+- discussion: connect to intro (what have we learned?)
+- dishonesty and bankers, especially when framing task in their profession (https://www.nature.com/articles/nature13977)

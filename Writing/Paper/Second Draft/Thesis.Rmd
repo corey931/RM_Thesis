@@ -55,6 +55,19 @@ knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 
 # Discussion 
 
+- As deciders repeatedly completed the die-rolling task in previous experimental blocks, we would expect their responses to differ from selectors’ responses. 
+- feedback from participants
+  - terms 'selector' and 'decider' confusing 
+- methods
+  - die rolling game in the end confounding the svo
+- discrepancy between injunctive (what we told participants to do) and descriptive norm (what they actually did)
+- theoretical implications
+  - typically more cooperation 
+- practical implications
+  - from experimental setup
+  - from 
+
+# Conclusion
 
 \newpage
 # References
