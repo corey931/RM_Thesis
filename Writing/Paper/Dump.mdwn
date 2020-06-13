@@ -14,6 +14,9 @@
 - In addition, the possibility of partner switching increases competition among group members for desirable behaviors. 
 - However, different from previous research, participants dynamically learn each others' rule following scores. 
 - [blabla] have shown that those choosing enforce which qualities are desirable by excluding undesirable competitors to maximize their profit. 
+- Asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. [ex]. These asymmetries in partner choice also fortify already existing incentives. [ex]. Therefore, partner choice asymmetrically incentivizes qualities and thereby increases pressures to be categorized as a good interaction partner. 
+  - When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished.
+- Biological markets are therefore a place where individuals are required to cooperate through quality signaling. 
 
 
 ## Abstract or so
