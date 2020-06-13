@@ -13,6 +13,7 @@
 - and in addition to the inherent property of biological markets of creating incentive structures, asymmetries in partner choice often exist.
 - In addition, the possibility of partner switching increases competition among group members for desirable behaviors. 
 - However, different from previous research, participants dynamically learn each others' rule following scores. 
+- [blabla] have shown that those choosing enforce which qualities are desirable by excluding undesirable competitors to maximize their profit. 
 
 
 ## Abstract or so
