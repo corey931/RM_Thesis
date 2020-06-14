@@ -17,6 +17,7 @@
 - Asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. [ex]. These asymmetries in partner choice also fortify already existing incentives. [ex]. Therefore, partner choice asymmetrically incentivizes qualities and thereby increases pressures to be categorized as a good interaction partner. 
   - When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished.
 - Biological markets are therefore a place where individuals are required to cooperate through quality signaling. 
+- However, markets do not exist in a vacuum, rather, in an environment that shapes interactions through its incentive structure, and it is this structure that can shape individuals' signals and which partners they choose. 
 
 
 ## Abstract or so

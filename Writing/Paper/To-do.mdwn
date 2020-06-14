@@ -2,11 +2,14 @@
 
 - [] intro (1d): completely restructure
   - [x] biological markets
-  - [] prosociality
-  - [] anti-social behavior
-  - [] social norms
-    - H2
-    - H3
+  - [x] prosociality
+  - [x] anti-social behavior
+  - [x] social norms
+  - [] define 
+    - [] cooperation
+    - [] prosociality
+  - [x] H2
+  - [x] H3
   - [] hypotheses
   - [] refs
 - [] methods: reshuffle (0.75d)
@@ -18,9 +21,3 @@
   - [] write 
 - [] abstract (0.25d)
 
-## Doing
-
-## Done
-
-
- 
