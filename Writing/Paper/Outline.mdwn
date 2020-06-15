@@ -50,6 +50,12 @@
 
 ### Data Analysis
 
+- [] Manipulation checks
+- [] H1
+- [] H2
+- [] H3
+- [] Surprises
+
 ## Results
 
 ## Discussion
