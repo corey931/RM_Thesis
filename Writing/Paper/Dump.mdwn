@@ -18,6 +18,7 @@
   - When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished.
 - Biological markets are therefore a place where individuals are required to cooperate through quality signaling. 
 - However, markets do not exist in a vacuum, rather, in an environment that shapes interactions through its incentive structure, and it is this structure that can shape individuals' signals and which partners they choose. 
+- and in doing so they choose those who display desirable qualities. 
 
 
 ## Abstract or so

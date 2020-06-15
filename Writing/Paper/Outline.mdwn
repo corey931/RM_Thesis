@@ -46,7 +46,7 @@ In addition, rule following has been shown to carry over when switching from one
 Partner choice
 Not only social environments have been shown to influence rule following, but partner choice as well. Specifically, individuals who are able to choose group members for partnership can choose to include or exclude members, thereby enforcing desirable behaviors as well as implicitly punishing less desirable behaviors. 
 
-### Argument in more detail
+### Argument in more detail (maybe for the discussion)
 
 Individuals compete to choose and be chosen for social interactions. This is called a biological market. But unlike economic markets where goods and services are traded, biological markets mainly focus on the ability and willingness to benefit others. For instance, peers, non-peers [ex]. Biological markets are therefore a place where individuals are required to cooperate through quality signaling and partner choice. However, markets do not exist in a vacuum, rather, in an environment that shapes interactions through its incentive structure, and it is this structure that can shape individuals' signals and which partners they choose. 
 
@@ -58,6 +58,7 @@ Moreover, both prosociality and corrupt collaboration can manifest as social nor
 
 ### Full-fledged
 
+Cooperation is key for societies to function. Rule following, for instance, the behavior of adhering to rules, is inevitable for  set out by policymakers or embedded in legislation,  
 Cooperation such as rule following, for instance, is key for societies to function. [def]. [ex]. However, cooperation is not prosocial per se. Instead, groups can also collaborate to violate rules. Previous research has hightlighted the importance of incentives in social environments and partner choice in solving these seemingly contradictory behaviors. 
 
 Individuals cooperate with each other. However, all involved parties have to consider both the costs and the benefits. Importantly, costs can be exploitation attempts, risks that are better avoided if possible. To shield themselves from being exploited, parties evaluate how trustworthy others are. [ex]. In fact, individuals readily signal their trustworthiness to show others that they are able and willing to cooperate. For instance, charity [ex]. Also, research has shown that the willingness outweighs the ability to confer benefits on others. [ex]. Importantly, signals are considered reliable when they are rather costly for some to perform or others do not possess the qualities in the first place. [ex]. Therefore, cooperation requires some form of safety from the parties involved. 
@@ -70,7 +71,7 @@ Reputation has been described as a universal currency for social interactions, a
 
 Reputation management is vital for biological markets where individuals compete to choose and be chosen as interaction partners. Unlike economic markets where goods and services are traded, biological markets focus on the ability and willingness to benefit others. Hunter gatherer tribes, peers [ex]. Importantly, the willingness to benefit is more important than the ability to do so. For instance, [blabla] found that generousity prevails over productivity [ex]. Reputation therefore plays a vital role in biological markets.
 
-However, in a market, supply commonly follows demand. Specifically, individuals compete to be chosen but also choose who they want to interact with such as their partners, friends, and colleagues at work, a concept we here refer to as partner choice. and in doing so they choose those who display desirable qualities. Importantly, reputation helps choosers to maximize gains and avoid losses stemming from social interactions. [ex]. Therefore, competitors are abandoned if they do not signal desirable qualities or show non-cooperativeness. [ex]. However, individuals do not want to miss out on benefits and adjust their behavior. 
+However, in a market, supply commonly follows demand. Specifically, individuals compete to be chosen but also choose who they want to interact with such as their partners, friends, and colleagues at work, a concept we refer to here as partner choice. Importantly, reputation helps choosers to maximize gains and avoid losses stemming from social interactions. [ex]. Therefore, competitors are abandoned if they do not signal desirable qualities or show non-cooperativeness. [ex]. However, individuals do not want to miss out on benefits [ex]. Partner choice therefore creates selection pressures.  
 
 Which qualities are considered desirable have been found to be conditional on the goals of the individual choosing. For instance, in a prosocial environment, signals of prosociality are preferred [ref] and, therefore, lead to cooperation. [ex]. However, individuals also cooperate to corrupt. In fact, in a corrupt environment, people have been shown to prefer corrupt collaboration, the joint violation of rules for the sake of gaining benefits. For instance, disthonesty [ex]. H1.  
 
