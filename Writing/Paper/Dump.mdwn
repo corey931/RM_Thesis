@@ -21,6 +21,9 @@
 - and in doing so they choose those who display desirable qualities. 
 - Importantly, both prosocial and corrupt behavior can exacerbate, thus increase in frequency, and both can influence the other, potentially diminishing either prosocial or corrupt behavior. 
 - Cooperation becomes rather asymmetric when only one individual in a group can choose who to interact with, which creates selection pressures for potential cooperators. However, which individuals are preferred has been shown to depend on the incentives of the social environment. In prosocial environments, prosociality is preferred and in corrupt environments, corrupt collaboration is preferred. These propensities can exacerbate with each behavior increasing in frequency in its respective environment. In addition, these propensities can spillover from one environment to another. 
+- Specifically, competitive altruism 
+- by maximizing gains and avoiding losses that follow from their chosen interaction partners. 
+- [blabla] have shown the impact of descriptive norms of a neighborhood on household electricity consumption 
 
 
 ## Abstract or so
