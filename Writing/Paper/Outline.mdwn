@@ -34,17 +34,21 @@
 
 ## Methods
 
-### Measures
+### Participants
 
-#### Dictator Game
+### Procedure and Materials
 
-#### Die-Rolling Task
+Participants were assigned to groups of four (n = 48 groups) and seated in separate cubicles. In each group, one participant was randomly assigned to the role of the "partner selector". The other three participants were assigned to the role of the "deciders". There were 30 rounds with each round consisting of three stages. 
 
-#### Partner Choice
+In the first stage, deciders had to complete a rule following task. Deciders received 15 balls that they could put in either a blue bucket or a yellow bucket. The blue bucket earned them 5 points, the yellow bucket earned them 15 points with 100 points converting to €1.00. Importantly, deciders were instructed that "the rule is to put the ball in the blue bucket". Following the rule was therefore a costly signal through which deciders could gain reputation. 
 
-#### Social Value Orientation
+In the second stage, all participants received feedback about the rule following scores of their group members. Subsequently, partner selectors had to choose at least one of the deciders as their interaction partner and could multiply their gains in the third stage by the number of deciders they chose. Similarly, deciders could gain more points in the third stage if they were chosen but missed out if they were not chosen. 
 
-### Procedure 
+In the third stage, there were two environments that partner selectors and chosen deciders went through. One environment was a dictator game (DG) where prosocial behavior benefitted the partner selector. Each chosen decider received 500 points and split the amount between themselves and the partner selector. In steps of 50 points, deciders then gave an amount 0 < *x* < 250 to the partner selector and kept the remaining points. Deciders therefore allocated points fairly if they split the amount in half. However, deciders allocated points selfishly if they kept all points. In this scenario, partner selectors missed out and should prefer prosocial partners. Both selectors and deciders received feedback about the points allocated and the rule following score. 
+
+Another environment was a die-rolling task (DRT) where dishonesty benefitted the partner selector. Each chosen decider had to roll a die with a cup and report the die roll. The reported outcome then determined the payoff of the decider and the partner selector with both earning the same amount. In steps of 50, reporting a one earned them 0 points while reporting a six earned them 250 points. Deciders did not face adverse consequences for lying, making lying a beneficial option. Partner selectors therefore should prefer dishonest partners. At the end of the third stage, both partner selectors and chosen deciders received feedback about their amounts earned along with the rule following scores from stage one. After the third stage, the next round began. 
+
+After 30 rounds, each participant completed two tasks. First, they completed a single die roll measuring individual dishonesty as the reported outcome benefitted only themselves. 
 
 ### Payoff Calculation
 
@@ -57,5 +61,7 @@
 - [] Surprises
 
 ## Results
+
+- were more rule following deciders always preferred? 
 
 ## Discussion
