@@ -34,31 +34,29 @@
 
 ## Methods
 
-### Participants
-
 ### Procedure and Materials
 
-Participants were assigned to groups of four (n = 48 groups) and seated in separate cubicles. In each group, one participant was randomly assigned to the role of the "partner selector". The other three participants were assigned to the role of the "deciders". There were 30 rounds with each round consisting of three stages. 
+Participants were assigned to groups of four (n = 48 groups) and seated in separate cubicles at Leiden University. In each group, one participant was randomly assigned to the role of the "partner selector". The other three participants were assigned to the role of the "deciders". All participants completed 30 rounds with each round consisting of three stages. 
 
-In the first stage, deciders had to complete a rule following task. Deciders received 15 balls that they could put in either a blue bucket or a yellow bucket. The blue bucket earned them 5 points, the yellow bucket earned them 15 points with 100 points converting to €1.00. Importantly, deciders were instructed that "the rule is to put the ball in the blue bucket". Following the rule was therefore a costly signal through which deciders could gain reputation. 
+In the first stage, deciders had to complete a rule following task [ref]. Deciders received 15 balls that they could put in either a blue bucket or a yellow bucket. The blue bucket earned them 5 points, the yellow bucket earned them 15 points with 100 points converting to €1.00. Importantly, deciders were instructed that "the rule is to put the ball in the blue bucket". Violating the rule, however, was not sanctioned and following the rule was therefore a costly signal through which deciders could gain reputation instead. 
 
-In the second stage, all participants received feedback about the rule following scores of their group members. Subsequently, partner selectors had to choose at least one of the deciders as their interaction partner and could multiply their gains in the third stage by the number of deciders they chose. Similarly, deciders could gain more points in the third stage if they were chosen but missed out if they were not chosen. 
+In the second stage, all participants received feedback about the rule following scores of all deciders. Subsequently, partner selectors had to choose at least one of the deciders as their interaction partner for stage three. Choosing more partners could potentially multiply the partner selector's gains by the number of partners they chose. Similarly, deciders could gain more points in the third stage if they were chosen but missed out if they were not chosen. Partner selectors were therefore in a position to include and exclude deciders from interactions from any given round, laying the foundation for shaping behaviors that were considered desirable and behaviors that were not. 
 
-In the third stage, there were two environments that partner selectors and chosen deciders went through. One environment was a dictator game (DG) where prosocial behavior benefitted the partner selector. Each chosen decider received 500 points and split the amount between themselves and the partner selector. In steps of 50 points, deciders then gave an amount 0 < *x* < 250 to the partner selector and kept the remaining points. Deciders therefore allocated points fairly if they split the amount in half. However, deciders allocated points selfishly if they kept all points. In this scenario, partner selectors missed out and should prefer prosocial partners. Both selectors and deciders received feedback about the points allocated and the rule following score. 
+In the third stage, there were two environments that partner selectors and their chosen partners went through. One environment facilitated prosociality, a dictator game (DG; [ref]) where prosocial behavior benefitted the partner selector. Each partner received 500 points and had to split the amount between themselves and the partner selector. In steps of 50 points, partners then gave an amount 0 < *x* < 250 to the partner selector and kept the remaining points. Partners therefore allocated points fairly if they split the amount in half. However, partners allocated points selfishly if they kept all points for themselves. In this scenario, the partner selector missed out and, as a consequence, should prefer prosocial partners. Both selectors and their partners received feedback about the points allocated and the rule following score obtained. 
 
-Another environment was a die-rolling task (DRT) where dishonesty benefitted the partner selector. Each chosen decider had to roll a die with a cup and report the die roll. The reported outcome then determined the payoff of the decider and the partner selector with both earning the same amount. In steps of 50, reporting a one earned them 0 points while reporting a six earned them 250 points. Deciders did not face adverse consequences for lying, making lying a beneficial option. Partner selectors therefore should prefer dishonest partners. At the end of the third stage, both partner selectors and chosen deciders received feedback about their amounts earned along with the rule following scores from stage one. After the third stage, the next round began. 
+Another environment facilitated dishonesty, a die-rolling task (DRT; [ref]) where dishonesty benefitted the partner selector. Each chosen decider had to roll a die with a cup and report that die roll. The reported outcome then determined the payoff of the decider and the partner selector with both earning the same amount. In steps of 50, reporting a one earned them 0 points while reporting a six earned them 250 points. Deciders did not face adverse consequences for lying, making lying a beneficial behavior. Partner selectors were therefore more likely to miss out when their partners were honest and, consequently, should prefer dishonest partners. 
 
-After 30 rounds, each participant completed two tasks. First, they completed a single die roll measuring individual dishonesty as the reported outcome benefitted only themselves. 
+At the end of the third stage, both partner selectors and chosen deciders received feedback about the amounts they earned along with the rule following scores from stage one. After the third stage, the next round began. The feedback allowed partner selectors to dynamically learn the rule following of deciders, and deciders learned whether rule following was desirable or not. 
 
-### Payoff Calculation
+After 30 rounds, each participant completed two tasks. In the first task, they had to complete the social value orientation [ref] scale by themselves. Participants had to indicate how they would split various scenarios of amounts between themselves and others. They were more prosocial if their allocations benefitted the other. In the second task, participants reported a single die roll by themselves. The outcome counted towards their individual payoffs. Similar to before, participants were more dishonest if they reported a six because of its likelihood. 
 
 ### Data Analysis
 
-- [] Manipulation checks
-- [] H1
-- [] H2
-- [] H3
-- [] Surprises
+- [] checks in general
+- [] check + H1 + surprises
+- [] check + H2 + surprises
+- [] check + H3 + surprises
+- [] surprises in general
 
 ## Results
 
