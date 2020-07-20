@@ -2,18 +2,14 @@
 
 ## Overview
 
-**RQ**
-1. Do individuals follow rules differently across environments? / Can switching from a corrupt environment to a fair environment make individuals more rule following?
-2. And are they chosen differently across those environments? / Are dishonest partners preferred in corrupt environments and prosocial partners preferred in fair environmnents?
-
 **Hypotheses**
-1. Norms of rule-following will establish over time. 
-   1. Scores will increase in the fair environment
-   2. Scores will decrease in the corrupt environment
-2. Rule-following scores in the first shown environment will anchor scores in the second shown environment. 
-3. Rule violators will be selected 
-   1. more often in the corrupt environment
-   2. less often in the fair environment
+1. Participants will change their rule following over time. 
+   1. Rule following will increase in the fair environment and
+   2. decrease in the dishonest environment
+2. Rule-following spills over across environments 
+3. Participants prefer partners who 
+   1. violate rules more often in the corrupt environment and 
+   2. partners who follow rules more often in the fair environment
 
 **Structure**
 - cooperation
@@ -56,10 +52,6 @@ Partner choice is an integral part of biological markets. [def]. Those who choos
 
 Moreover, both prosociality and corrupt collaboration can manifest as social norms over time. Social norms are commonly defined as behaviors that should be commonly acted out (i.e., injunctive norms) or are indeed commonly acted out (i.e., descriptive norms). [ex]. Previous research has examined these concepts by looking at rule-following behavior. In addition, behavior has been shown to breed behavior with prosociality increasing the frequency of following prosociality. Specifically, [blabla] have shown the impact of descriptive norms of a neighborhood on household electricity consumption. Similarly, corruption has been shown to breed corruption. [blabla] has shown that. 
 
-### Full-fledged
-
-Cooperation such as rule-following, for instance, is key to the functioning of societies. For instance, policy makers, legislators, and university councils all establish and administrate rules. People can be prosocial, follow rules, and therewith act in the best interest of a group as a whole. Cooperation, however, is not always prosocial. Instead, people can defect as a collective in the face of better benefits, a concept called corrupt collaboration [ref]. This form of corruption only benefits those defecting and comes at the expense of others. While the consequences of prosocial behavior are largely considered positive [ref] with examples of moral character [ref] and trustworthiness [ref], the consequences of corrupt collaboration can be disastrous. [ex] For instance, . We, therefore, have to investigate when groups cooperate for prosocial reasons and when groups corrupt.
-
 #### From Costly Signaling to Reputation Management
 
 When individuals cooperate, all involved parties have to consider both the costs and the benefits. Importantly, costs can be exploitation attempts, risks that are better avoided if possible. To shield themselves from being exploited, individuals evaluate how trustworthy others are. [ex]. Individuals readily signal their trustworthiness. For instance, charity [ex]. Importantly, signals are considered reliable when they are rather costly for some to perform or others do not possess the qualities in the first place. [ex]. Therefore, cooperation requires trustworthiness among the parties involved as a safety mechanism. 
@@ -94,7 +86,7 @@ In the first stage, deciders had to complete a rule following task [ref]. Decide
 
 In the second stage, all participants received feedback about the rule following scores of all deciders. Subsequently, partner selectors had to choose at least one of the deciders as their interaction partner for stage three. Choosing more partners could potentially multiply the partner selector's gains by the number of partners they chose. Similarly, deciders could gain more points in the third stage if they were chosen but missed out if they were not chosen. Partner selectors were therefore in a position to include and exclude deciders from interactions from any given round, laying the foundation for shaping behaviors that were considered desirable and behaviors that were not. 
 
-In the third stage, there were two environments that partner selectors and their chosen partners went through. One environment facilitated prosociality, a dictator game (DG; [ref]) where prosocial behavior benefitted the partner selector. Each partner received 500 points and had to split the amount between themselves and the partner selector. In steps of 50 points, partners then gave an amount 0 < *x* < 250 to the partner selector and kept the remaining points. Partners therefore allocated points fairly if they split the amount in half. However, partners allocated points selfishly if they kept all points for themselves. In this scenario, the partner selector missed out and, as a consequence, should prefer prosocial partners. Both selectors and their partners received feedback about the points allocated and the rule following score obtained. 
+In the third stage, there were two environments that partner selectors and their chosen partners went through. One environment facilitated prosociality, a dictator game (DG; [ref]), where prosocial behavior benefitted the partner selector. Each partner received 500 points and had to split the amount between themselves and the partner selector. In steps of 50 points, partners then gave an amount 0 < *x* < 250 to the partner selector and kept the remaining points. Partners therefore allocated points fairly if they split the amount in half. However, partners allocated points selfishly if they kept all points for themselves. In this scenario, the partner selector missed out and, as a consequence, should prefer prosocial partners. Both selectors and their partners received feedback about the points allocated and the rule following score obtained. 
 
 Another environment facilitated dishonesty, a die-rolling task (DRT; [ref]) where dishonesty benefitted the partner selector. Each chosen decider had to roll a die with a cup and report that die roll. The reported outcome then determined the payoff of the decider and the partner selector with both earning the same amount. In steps of 50, reporting a one earned them 0 points while reporting a six earned them 250 points. Deciders did not face adverse consequences for lying, making lying a beneficial behavior. Partner selectors were therefore more likely to miss out when their partners were honest and, consequently, should prefer dishonest partners. 
 
@@ -102,13 +94,12 @@ At the end of the third stage, both partner selectors and chosen deciders receiv
 
 After 30 rounds, each participant completed two tasks. In the first task, they had to complete the social value orientation [ref] scale by themselves. Participants had to indicate how they would split various scenarios of amounts between themselves and others. They were more prosocial if their allocations benefitted the other. In the second task, participants reported a single die roll by themselves. The outcome counted towards their individual payoffs. Similar to before, participants were more dishonest if they reported a six because of its likelihood. 
 
-### Data Analysis
+### Analysis Plan
 
-- [] checks in general
-- [] check + H1 + surprises
-- [] check + H2 + surprises
-- [] check + H3 + surprises
-- [] surprises in general
+In this research we aim to show that rule following determines partner choice which also depends on the environment, so the DG and DRG. We will use hierarchical regression models to account for the intraclass correlations since our data is nested in groups [ref]. We will fit our model to the data using poisson regression and add predictors step-wise. 
+
+Second we expect the reverse where partner selectors regulate deciders' rule following depending on the environment. We will apply hierarchical logistic regression to fit this model. At the end of each analysis, we will explore any surprising outcomes. 
+
 
 ## Results
 
@@ -143,6 +134,8 @@ After 30 rounds, each participant completed two tasks. In the first task, they h
 - [] surprises
 
 ## Discussion
+
+Cooperation such as rule-following, for instance, is key to the functioning of societies. For instance, policy makers, legislators, and university councils all establish and administrate rules. People can be prosocial, follow rules, and therewith act in the best interest of a group as a whole. Cooperation, however, is not always prosocial. Instead, people can defect as a collective in the face of better benefits, a concept called corrupt collaboration [ref]. This form of corruption only benefits those defecting and comes at the expense of others. While the consequences of prosocial behavior are largely considered positive [ref] with examples of moral character [ref] and trustworthiness [ref], the consequences of corrupt collaboration can be disastrous. [ex] For instance, . We, therefore, have to investigate when groups cooperate for prosocial reasons and when groups corrupt.
 
 - [] summary of study 
 - [] summary of results

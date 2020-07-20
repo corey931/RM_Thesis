@@ -38,3 +38,41 @@ Cooperation is key for groups and entire societies to function. Norms help to ac
 
 Importantly, social norms are crucial for safeguarding cooperation. Social norms are [def]. Specifically, injunctive norms are [def], while descriptive norms are [def]. Rule following, for example, is widely researched. [research]. [example].
 
+## Methods
+
+**RQ**
+1. Do individuals follow rules differently across environments? / Can switching from a corrupt environment to a fair environment make individuals more rule following?
+2. And are they chosen differently across those environments? / Are dishonest partners preferred in corrupt environments and prosocial partners preferred in fair environmnents?
+
+**Vars**
+- Rule following: 0 - 15 (count)
+- Partner choice: 0 / 1
+- Dictator game: 1 - 6 
+- Die rolling game: 1 - 6 
+
+**Hypotheses**
+- rf -> pc (binomial); <-env>: poisson
+  - rf -> pc 
+  - rf -> pc; <-env>
+- pc -> rf (count); <-env>: logistic
+  - pc -> rf 
+  - pc -> rf; <-env>
+  - 
+- svo different among: 
+  - dictator vs die roll contributions
+  - selectors vs deciders 
+  - role vs env
+
+- nested models with REML taking intraclass correlation into account [Gelman]
+- (poisson) regression models
+
+In this research we first aim to show that partner choice depends on the goals of the chooser. 
+
+Second we expect that competitors adjust their rule following behavior in order to be chosen.
+
+- [] research question
+- [] checks in general
+- [] check + H1 + surprises
+- [] check + H2 + surprises
+- [] check + H3 + surprises
+- [] surprises in general
