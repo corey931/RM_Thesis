@@ -1,0 +1,193 @@
+# Aggregated Feedback
+
+## Content 
+
+**Include**
+- Would extend – talk about the environment, incentives in the environment – why do some groups/societies have norms of trust, cooperation, and morality, while others establish norms that foster anti-social behavior? Then, you can also connect your examples to a broader theoretical foundation.
+- Why moral? Why not simply trustworthy / signal willingness of pro-sociality (which is more clearly defined in the literature)? 
+- What are biological markets? Define!
+- You need to talk about the role of partner selection, not only mention it as a sidenote.
+- Again, this are interesting examples, but it is not clear for what exactly, because your theoretical foundation is lacking. 
+
+**Reuse**
+- This is good; You introduce  a new theoretical  concept (asymmetry) and then clearly define it with abstract  (resources etc.) and “real life”(banks etc.) examples. 
+- Why not talk about this study (Keizer, Lindenberg, & Steg, 2008) in more detail instead of using broad real-life examples that may lose their relevancy in some years from now.
+
+**Introduce**
+- rule-following scores
+- environment
+  - fair
+  - corrupt
+  - anchoring
+
+## Structure
+
+1. Do individuals follow rules differently across environments?
+2. And are they chosen differently across those environments? 
+
+3. RQ: Can switching from a corrupt environment to a fair environment make individuals more rule following?
+4. RQ: Are dishonest partners preferred in corrupt environments and prosocial partners preferred in fair environmnents?
+
+### In a nutshell
+
+Cooperation such as rule following, for instance, is key for societies to function. [def]. [ex]. However, groups can also collaborate to violate rules. Previous research has hightlighted the importance of incentives in social environments and partner choice in solving these seemingly contradictory behaviors. 
+
+- individuals choose others who they want to interact with such as their partners, friends, and colleagues at work, and in doing so they choose those who display desirable characteristics - whether intentionally or unintentionally - and abandon those who do not. This is also called a biological market and different from economic markets, individuals do not trade goods or services but their ability dgeand willingness to confer benefits on others. [ex]. Therefore, biological markets establish incentive structures over which behavior is desirable and which behavior is undesirable. 
+- In fact, research has extensively shown that individuals want to be or at least appear to be good interaction partners and in doing so, they signal their trustworthiness to others. Signaling theory [def]. Therefore, individuals care what others think and 
+- The behavior of choosing another individual as interaction partner is called partner choice[def]. In addition to the property of biological markets to create incentive structures as to what behavior is enforced and what behavior is not, asymmetries in partner choice often exist. Asymmetric partner choice occurs when some individuals have more potential partners at their disposal and ready to choose from than others. 
+- One important component in biological markets is partner choice. Partner choice is operationally defined as [def]. When some individuals have more potential partners at their disposal and ready to choose from while others do not, asymmetries in partner choice exist. When partner choice asymmetries exist in biological markets, incentive structures are established with desirable behaviors being unilaterally enforced and undesirable behaviors implicitly punished. Since biological markets enforce desirable behaviors and implicitly punish undesirable behaviors
+
+- In order to do so, individuals signal their trustworthiness to others and they do so by showing that they reciprocate. 
+
+- biological markets
+- partner choice
+- signaling trustworthiness: reciprocity (prosociality / anti-social behavior)
+  - partner switching
+- competitive altruism
+
+- Biological markets 
+
+Environments
+When in groups, those individuals who are able to choose others for partnership, prefer those who signal their willingness to reciprocate, and with increasing availability of partners, competitors become increasingly altruistic. 
+
+Reversely, instead of signaling altruism, competitors can also signal their willigness to defect, especially in anonymous settings. Similarly to altruism, corruption has been shown to breed corruption. [ex]. 
+
+Rule following also carries over when switching from one social environment to another, with each environment having its own social norms. Specifically, norms have been shown to carry over to corrupt environments. [milinski]. 
+
+Partner choice
+Not only social environments have been shown to influence rule following, but partner choice as well. Specifically, individuals who are able to choose group members for partnership can choose to include or exclude members, thereby enforcing desirable behaviors as well as implicitly punishing less desirable behaviors. 
+
+In addition, the possibility of partner switching increases competition among group members for desirable behaviors. 
+
+However, different from previous research, participants dynamically learn each others' rule following scores. 
+
+Dump
+Rule following has been studied widely in behavioral economics, where economic games have shown that rule following increases in step-level games as opposed to one-shot games.  
+This competition has been shown to reverse, so that competitors become more corrupt when anonymity exists in addition to other factors. 
+
+When 
+
+- cooperation
+  - 
+- social norms
+  - rule following and norms
+  - corrupt collaboration and common norms
+- social environments
+  - why follow/incentives
+    - (reputation)
+    - signaling theory
+    - reciprocity
+      - competitive altruism
+  - why violate/incentives
+  - switching environments
+  - anchoring environments
+- partner choice
+  - biological markets
+  - partner switching
+
+
+### More detailed
+
+- **social norms/rules**
+  - rule-following (scores)
+  - why individuals/groups/societies have norms to follow rules 
+    - prosociality
+    - why do they have norms of trust, cooperation, and morality 
+  - and why individuals/groups/societies have norms to violate rules
+    - corrupt collaboration 
+    - why do they foster anti-social behaviors [find factors] 
+- **and that depends on partner choice**, those who choose them as interaction partners **(RQ1)**
+  - biological markets: individuals interact in groups and their behaviors function as resources (similar to economic markets)
+  - signaling theory: individuals want to show others some of their characteristics
+  - reputation (management): individuals have impressions of others that develop over time
+  - reciprocity: individuals expect others to return favors and benefits
+- **and that depends on their social environments (RQ2)**
+
+# Feedback 
+
+## Written Feedback
+
+### Skype Session (10-06-2020)
+
+**Ask**
+- buzz words in results section: frequency, modulate, increase, depend
+- as someone more experienced, how long does it take you to write a paper by now? 
+
+**Feedback**
+- intro
+- methods
+  - connect tasks back to intro asked to follow rules but costly, but has benefits; or hypothetical 
+  - die rolling: expect 6es and what partners to expect, binary tree going through options (briefly for hypotheses)
+  - experimental tasks (theoretical level): what they measure, then implement, then order, number of rounds
+- results
+  - most important, then what follows...
+  - what i test, conclude, and order everything well
+  - partner choices [manipulation checks], partner selectors
+  - behavioral; frequency/propensity of rule following; what is surprising (put it at the end)
+  - condition 1/2 labels
+  - at end of methods, outline analysis, use R package to derive p-values
+- discussion
+  - dishonesty and bankers, especially when framing task in their profession (https://www.nature.com/articles/nature13977)
+  - connect to intro (what have we learned?)
+
+
+### Aggregated 
+
+**Include**
+- Would extend – talk about the environment, incentives in the environment – why do some groups/societies have norms of trust, cooperation, and morality, while others establish norms that foster anti-social behavior? Then, you can also connect your examples to a broader theoretical foundation.
+- Why moral? Why not simply trustworthy / signal willingness of pro-sociality (which is more clearly defined in the literature)? 
+- What are biological markets? Define!
+- You need to talk about the role of partner selection, not only mention it as a sidenote.
+- Again, this are interesting examples, but it is not clear for what exactly, because your theoretical foundation is lacking. 
+
+**Reuse**
+- This is good; You introduce  a new theoretical  concept (asymmetry) and then clearly define it with abstract  (resources etc.) and “real life”(banks etc.) examples. 
+- Why not talk about this study (Keizer, Lindenberg, & Steg, 2008) in more detail instead of using broad real-life examples that may lose their relevancy in some years from now.
+
+### In Detail
+
+- examples
+  - connect examples better to theory/concepts under investigation
+  - rather stick to studies than broad real-life examples: explain the experimental setup
+
+- structure
+    - use operational definitions
+    - too broad at the end of paragraphs
+
+- title 
+    - does not make sense 
+    - too unspecific
+
+- abstract 
+  - too unspecific and broad
+  - define environments
+  - remove leadership example for implications
+  - define all terms
+  - his summary
+    - define terms
+    - unclear what it's about
+    - unclear what I did 
+
+- introduction
+  - his summary
+    - structure is missing, foundation, research question
+    - transitions and "storyline" missing 
+    - examples are arbitrary, not theoretical
+    - avoid hyperbolic or metaphorical statements (too vague)
+    - concepts not clearly defined
+    - sentences copied from other papers
+  - too unscientific
+  - terms without context
+  - company marketing example out of place; better for reputation management
+  - competition does not typically lead to trust and cooperation (use strong evidence)
+  - more on partner selection (use biological markets as entry point)
+  - more theoretical foundation, instead of examples
+  - avoid metaphors if they are not theoretically grounded
+  - copied sentences from other papers including his
+
+- references
+  - use scientific statements, not psychological assessments or the like
+  - describe studies 
+
+- method section
+  - avoid add-ins -> find a better structure

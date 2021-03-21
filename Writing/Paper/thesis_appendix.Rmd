@@ -1,0 +1,172 @@
+---
+title             : "An Antidote to Corruption: When Social Environments and Partner Choices Do More Harm Than Good"
+shorttitle        : "Choosing Corrupt Collaboration"
+
+author: 
+  - name          : "Sebastian Simon"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Postal address"
+
+affiliation:
+  - id            : "1"
+    institution   : "Social, Economic, and Organizational Psychology, Leiden University"
+
+authornote: |
+  Add complete departmental affiliations for each author here. Each new line herein must be indented, like this line.
+
+  Enter author note here.
+
+abstract: Goes here.
+  
+keywords          : "Rule following, partner choice, social environment, norms"
+
+bibliography      : ["r-references.bib"]
+
+floatsintext      : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+linenumbers       : no
+mask              : no
+draft             : no
+
+documentclass     : "apa6"
+classoption       : "man"
+output            : papaja::apa6_word
+keep_tex          : yes
+---
+
+```{r setup, include = FALSE}
+library("papaja")
+```
+
+```{r analysis-preferences}
+# Seed for random number generation
+set.seed(42)
+knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
+```
+
+# Intro
+
+# Methods
+
+# Results
+
+# Discussion 
+
+- As deciders repeatedly completed the die-rolling task in previous experimental blocks, we would expect their responses to differ from selectors’ responses. 
+- feedback from participants
+  - terms 'selector' and 'decider' confusing 
+- methods
+  - die rolling game in the end confounding the svo
+- discrepancy between injunctive (what we told participants to do) and descriptive norm (what they actually did)
+- theoretical implications
+  - typically more cooperation 
+- practical implications
+  - from experimental setup
+  - from 
+
+# Conclusion
+
+\newpage
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+<div id = "refs"></div>
+\endgroup
+
+\newpage
+# Appendix A
+
+Syntax goes here. 
+
+\newpage
+# Appendix B
+
+## Information Brochure
+
+Dear participant, this brochure provides you with information about the type and methods of the study in which you are about to participate. It is therefore important that you read this document closely. 
+
+### Purpose of the Study
+
+People constantly make decisions, sometimes to improve their situation and sometimes to prevent it from worsening. In this study we will let you make a series of decisions, in which you can increase or decrease your starting capital. Whatever you have earned from your decisions during the task will be paid out to you in the end. We expect that the decision task is involving and that we get a good insight into the kind of investments you make.
+ 
+### What is going to happen?
+
+After you have read this introduction and signed the informed consent form, you will be briefed and trained in the task. It is important for you to know that you can leave the experiment at any point without providing a justification and without consequences. In this experiment, you will make a number of decisions. Each time, performance and earnings will be measured. At the end of this study, you will receive debriefing and eventual earnings. We will not provide your personal information to anybody else, only use these for scientific purposes, and will only report results averaged over all participants and not about individual cases.
+
+### Financial reward
+
+In this experiment, you participate in 1 session of about 60 minutes. You will receive a participation fee of 6,50 Euros (or 2 credits if you prefer) independent of your performance. In addition, depending on your decisions you may earn up to 6,50 Euros for your participation. You may thus earn up to 13 Euros in total. Your earnings will be calculated after the conclusion of the experiment and paid out to you after the second session.
+ 
+### Voluntary participation
+
+If you now decide not to participate in this experiment, this shall have no consequences for you. If you decide during the experiment to withdraw from the study, this shall have no consequences for you. In addition, up to 24 hours after the study you can still withdraw your consent for use of your personal information. You can thus withdraw your participation at any point. You are free to do so without providing any justification. If you now or within the next 24 hours want to withdraw your consent, your personal information will be removed from our database.
+ 
+### Confidentiality of study results
+
+All information from this study will remain coded. The principal investigator has no insight into your identity and will transfer any sum to be transferred to you to the research assistants in sealed envelopes. Thus, the experimenters do not know how much money you earned.
+
+### Debriefing
+
+At the end of this session, you will receive a short summary of the purpose of this study. You can always direct questions about the experiment to the experimenters or per email to Dr. Jörg Gross (j.a.j.gross@fsw.leidenuniv.nl).
+
+### Informed Consent 
+
+This study involves the reading of instructions and making a series of decisions that can affect your payment. All instructions, decisions, and questionnaires will be presented to you on the computer. At the end of the experiment, you will receive a debriefing with background information on the study, along with the additional earnings you obtained during the experiment.  The additional earnings depend on your decisions and can range between 2 and 6,50 Euros. How much you have earned will be paid out to you in cash after the session.
+
+The study involves one session and you will be compensated 6,50 Euros or 2 credits. In addition, you can earn more during the study itself. All measures taken in this study are for scientific purposes only and will be stored in a coded way. Participation is voluntary and at your own discretion. This means that you can withdraw from the study at any time and without having to explain or justify why. You will still receive the show-up fee of 6,50 Euros or 2 credits. All information collected during this study is confidential and the data will be stored in such a way that responses cannot be traced back to your identity. The study is coordinated by Dr. Jörg Gross (j.a.j.gross@fsw.leidenuniv.nl). Questions or complaints can be addressed to him.
+
+I herewith confirm that I have read and understood the information brochure and that I consent with participating in this study.
+
+\newpage
+# Appendix C
+## Instructions
+
+Welcome to the experiment! Below you will find detailed information about the study and a short test to check whether you understood the general setup. It is therefore important that you read the instructions closely. Click the blue headings to collapse the subsections. There is no deception and no hidden information in this study. Please do not hesitate to call the experimenter if anything remains unclear to you. Note: Tick the check boxes in the subsections below to show that you have read and understood the instructions. Otherwise, you will not be able to proceed. 
+
+In this study, you will be assigned to one of two roles and you will remain in this role throughout the experiment. You will either be playing in the role of the "selector" or in the role of a "decider". In total, there is one selector and there are three deciders. You will find out about your role at the start of the experiment. 
+
+## Part 1
+
+This study consists of two parts. Below, we will explain the first part in detail. After you have completed the first part of the experiment, we will give you instructions about the second part. At the end of the experiment, one round of part 1 will be selected randomly by the computer. Since you do not know which round will count for real, you should treat each round independently and as if every round is the one that counts. The points you earn in a round will be converted to money at a conversion rate of 100 points = 1 Euro. Hence, your decisions have real consequences for your earnings and, potentially, the earnings of other participants. You will start with 0 points and if your point total is below 650 points at the end of the experiment, you will still get paid 6.50 Euros. Therefore, you can earn a bonus if your point total is above 650 points. 
+
+### Stage 1. 
+
+The first part of the study consists of 15 rounds. Each round has three stages. Each decider will decide how to allocate 15 balls between two buckets on the computer screen. The deciders' task is to put each ball, one-by-one, into one of the two buckets: the blue bucket or the yellow bucket. For each ball the decider puts in the blue bucket he or she will receive 5 points and for each ball the decider puts in the yellow bucket he or she will receive 15 points. The rule is to put the balls in the blue bucket. The deciders' payments in this stage will be based on the sum of the points of the blue bucket and the yellow bucket. The selector will not take part in stage 1. 
+
+### Stage 2. 
+
+The selector will start by receiving 450 points. The selector will then learn about the decisions of all three deciders. Specifically, the selector will be told how many balls each decider placed in the blue bucket. The selector can then choose which decider to interact with for stage 3. The selector has to select at least one decider to interact with but can also choose to interact with two deciders in stage 3 - or even with all three. For every decider that the selector chooses, the selector has to pay a cost of 150 points. If a decider is not selected for stage 3, he or she will skip this stage, wait for the others to finish, and not earn be able to earn more. Importantly, the selector will not be able to identify the deciders across rounds, but only learn about their behavior in stage 1 (the bucket task). Specifically, the selector will be told how many balls each decider placed in the blue bucket. 
+
+### Stage 3. 
+
+If a decider is selected as interaction partner, he or she will receive 500 points. The decider is then asked how many points he or she wants to keep and how many points he or she wants to give to the selector. Hence, the decision of the decider determines the earnings of the decider as well as the earnings of the selector in this stage. After the decider has made his or her decision, the selector will learn about the outcome. 
+
+### Feedback in part 1. 
+
+After stage 3, the round is over, and you will receive a summary of this round. In the role of the decider, you receive a summary of: (a) your payoff from stage 1, (b) whether you were selected as interaction partner for stage 3 (c) how many points you decided to keep for yourself and give to the selector (d) your total sum of points you earned in this round In the role of the selector, you receive a summary of: (a) the deciders you chose as interaction partners for stage 3 (b) how many points the deciders you interacted with decided to keep for themselves and give to you (c) your total sum of points you earned in this round. Then, you move to the next round starting with stage 1.
+
+## Part 2 
+
+In this part, everything will stay the same as in part 1, except for stage 3 and the feedback. You will also stay in your role (decider or selector) from part 1. Again, this part consists of 15 rounds. For your convenience, we repeat the instructions for stage 1 and 2 below. Again, click the blue headings to collapse the subsections. Note: Tick the check boxes in the subsections below to show that you have read and understood the instructions. Otherwise, you will not be able to proceed. 
+
+In this stage the selected deciders will use the die and the cup. The deciders have to roll the die using the cup, peek under the cup, and report the die-roll outcome. The payoff for the decider and the selector will be determined by the result that the decider reports. Specifically: If a decider reports a 1, both the decider and the selector will earn 0 points. If a decider reports a 2, both the decider and the selector will earn 50 points. If a decider reports a 3, both the decider and the selector will earn 100 points. If a decider reports a 4, both the decider and the selector will earn 150 points. If a decider reports a 5, both the decider and the selector will earn 200 points. If a decider reports a 6, both the decider and the selector will earn 250 points.
+
+### Feedback in part 2. 
+
+After stage 3, the round is over, and you will receive a summary of this round. In the role of the decider, you receive a summary of: (a) your payoff from stage 1 (b) whether you were selected as interaction partner for stage 3, and (c) your die-roll report and how many points you and the selector earned, accordingly In the role of the selector, you receive a summary of: (a) the deciders you chose as interaction partners for stage 3 and (b) the die-roll report and resulting earnings for each decider you interacted with. Then, you move on to the next round starting with stage 1.
+
+## Debriefing
+
+In this study, you were part of a four-person group and made a series of decisions that could affect your final payoff. In one part of the experiment you were confronted with a rule of how to make decisions. We were interested in how many people and to what extent they follow this rule. In another part, one person of your group had to decide who to interact with based on the decisions that you and others made before. We are interested in when people choose to interact with others based on others’ previous decisions in the rule-task. In the last part, there were two contexts: you were assigned to either report the rolls of a die or divide money among yourself and a partner. If you had to report the rolls of a die, by not reporting truthfully, you were able to earn more money. We are interested to what extent over-reporting in this task is related to following the rule in the first task and being chosen as a partner. If you had to divide money among yourself and a partner, by giving more to yourself, you were able to earn more money. We are interested to what extent people make fair allocations and how this is related to getting chosen as a partner and signaling to follow rules in the rule-task. The study will help us better understand when and why individuals choose to interact with other people and follow or break rules. 
+
+The study did not involve any deception – everything that was told to you did in fact happen and/or will be implemented upon completion of the study. For further information, please contact the coordinator the study, Dr Jörg Gross (j.a.j.gross@fsw.leidenuniv.nl). Thank you for your participation!
+
